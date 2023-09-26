@@ -11,9 +11,9 @@ HTML5 trabaja de la mano con CSS3 para crear páginas web que usamos todos los d
 ## 2. Qué construí
 En este proyecto me enfoque en mostrar mi protafolio y poder compartirlo de manera web. 
 Contiene las siguientes secciones.
-* **Header**: Sección que involucra la foto de mi perfil, iconos y menú*
-* **Main**: Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, iconos y botones. Divididos, en Sobre mí, Experiencia, Artículos, Estudios, Proyectos, Testimonios, Contacto *
-* **Footer**: Sección que incluye enlaces de contacto externos al final de la página.*
+* **Header**: Sección que involucra la foto de mi perfil, iconos y menú. *
+* **Main**: Sección del contenedor para los elementos centrales de la página: logo, barra de búsqueda, iconos y botones. Divididos, en Sobre mí, Experiencia, Artículos, Estudios, Proyectos, Testimonios, Contacto. *
+* **Footer**: Sección que incluye enlaces de contacto externos al final de la página. *
 Las tecnologías son:
 <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
